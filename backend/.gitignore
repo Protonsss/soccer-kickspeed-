@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual Environment
+venv/
+env/
+.venv
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# Uploads
+uploads/
+*.mp4
+*.mov
+*.avi
+
+# Environment
+.env
+.env.local
+
+# Models
+*.pt
+*.pth
+
+# Logs
+*.log
+
