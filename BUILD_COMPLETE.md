@@ -212,7 +212,9 @@ Some ideas if you want to extend this:
 
 ## License
 
-MIT - use it however you want.
+Copyright © 2025 Stephen Chen. All Rights Reserved.
+
+This is proprietary software - copying, modification, or distribution without permission is prohibited.
 
 ## Thanks
 
