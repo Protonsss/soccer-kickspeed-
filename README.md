@@ -177,15 +177,14 @@ If you want to integrate this into something else, there's a REST API:
 
 **GET /docs** - Interactive API documentation (visit http://localhost:8000/docs when the backend is running)
 
-## Contributing
-
-Found a bug? Want to add a feature? Pull requests are welcome. This started as a personal project but I'm happy to collaborate.
-
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+**PROPRIETARY SOFTWARE - ALL RIGHTS RESERVED**
 
-Feel free to use, modify, and distribute this code. Contributions and forks are welcome!
+Copyright © 2025 Stephen Chen. This software contains proprietary algorithms and trade secrets.
+
+**VIEWING ONLY** - No copying, modification, distribution, or commercial use permitted.
+See LICENSE file for complete terms. Unauthorized use will be prosecuted.
 
 ## Thanks
 

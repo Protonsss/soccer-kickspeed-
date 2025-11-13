@@ -212,9 +212,10 @@ Some ideas if you want to extend this:
 
 ## License
 
-This project is licensed under the MIT License.
+**PROPRIETARY SOFTWARE - ALL RIGHTS RESERVED**
 
-Feel free to use, modify, and distribute this code. Contributions are welcome!
+Copyright © 2025 Stephen Chen. Contains advanced proprietary algorithms and trade secrets.
+Unauthorized use, copying, or distribution is strictly prohibited and will be prosecuted.
 
 ## Thanks
 

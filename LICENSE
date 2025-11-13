@@ -1,22 +1,101 @@
-MIT License
+PROPRIETARY SOFTWARE LICENSE AGREEMENT
 
-Copyright (c) 2025 Stephen Chen
+Copyright (c) 2025 Stephen Chen. All Rights Reserved.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+NOTICE: This software contains proprietary algorithms, trade secrets, and confidential
+information that are the exclusive property of Stephen Chen ("Owner").
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+================================================================================
+                            STRICT RESTRICTIONS
+================================================================================
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+1. INTELLECTUAL PROPERTY PROTECTION
+   This software and all associated algorithms, methods, processes, and documentation
+   constitute valuable trade secrets and proprietary information protected under
+   international copyright, trade secret, and intellectual property laws.
 
+2. ABSOLUTELY NO COPYING OR REPRODUCTION
+   You may NOT copy, reproduce, duplicate, or create derivative works of any portion
+   of this software, including but not limited to:
+   - Source code, algorithms, or computational methods
+   - Neural network architectures or trained model weights
+   - Calibration techniques or mathematical formulas
+   - Data structures, databases, or processing pipelines
+   - Documentation, comments, or technical specifications
+
+3. REVERSE ENGINEERING PROHIBITED
+   You may NOT reverse engineer, decompile, disassemble, or attempt to derive the
+   source code, algorithms, or trade secrets contained herein.
+
+4. NO COMMERCIAL USE
+   Commercial use, including but not limited to selling, licensing, or providing
+   services based on this software, is STRICTLY PROHIBITED without a separate
+   commercial license agreement and payment of licensing fees.
+
+5. NO DISTRIBUTION OR TRANSFER
+   You may NOT distribute, share, publish, upload, transmit, sublicense, rent,
+   lease, or transfer this software or any portion thereof to any third party
+   by any means.
+
+6. LIMITED VIEWING RIGHTS ONLY
+   Access to this repository grants VIEWING RIGHTS ONLY for evaluation purposes.
+   No other rights are granted, implied, or conveyed.
+
+7. CONFIDENTIALITY
+   All algorithms, methods, and techniques contained herein are CONFIDENTIAL and
+   constitute trade secrets. Unauthorized disclosure is prohibited.
+
+8. TERMINATION
+   Any violation of these terms immediately terminates all rights granted and may
+   result in legal action for damages, injunctive relief, and recovery of
+   attorney's fees.
+
+================================================================================
+                         PROPRIETARY ALGORITHMS
+================================================================================
+
+This software includes advanced proprietary algorithms including but not limited to:
+- Multi-view 3D reconstruction systems
+- Custom-trained neural networks for sub-pixel detection
+- Physics-based Extended Kalman Filtering
+- Real-time GPU-accelerated processing pipelines
+- Proprietary camera calibration methods
+- Advanced spin detection and Magnus effect modeling
+- CUDA-optimized computer vision kernels
+
+These algorithms represent significant research, development, and trade secrets.
+
+================================================================================
+                              ENFORCEMENT
+================================================================================
+
+Unauthorized use, copying, modification, or distribution of this software or its
+algorithms will be prosecuted to the maximum extent possible under applicable law,
+including:
+- Civil damages and penalties
+- Criminal prosecution where applicable
+- Injunctive relief
+- Recovery of profits derived from unauthorized use
+- Attorney's fees and court costs
+
+================================================================================
+                            NO WARRANTIES
+================================================================================
+
+THIS SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND. THE OWNER
+DISCLAIMS ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND
+NON-INFRINGEMENT.
+
+IN NO EVENT SHALL THE OWNER BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY,
+WHETHER IN CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION
+WITH THE SOFTWARE.
+
+================================================================================
+
+For licensing inquiries, contact: [Contact Information Required]
+
+Unauthorized access to, use of, or copying of this software constitutes acceptance
+of these terms and acknowledgment of the proprietary nature of this work.
+
+VIOLATORS WILL BE PROSECUTED.
