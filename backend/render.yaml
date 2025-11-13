@@ -1,0 +1,13 @@
+services:
+  - type: web
+    name: kickspeed-pro-api
+    env: docker
+    dockerfilePath: ./Dockerfile
+    plan: standard
+    region: oregon
+    healthCheckPath: /health
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.11
+      - key: PORT
+        value: 8000

@@ -48,8 +48,9 @@ export default function VideoUploader({ onAnalysisComplete, isAnalyzing, setIsAn
     formData.append('use_goal_calibration', 'true')
 
     try {
+      const apiUrl = process.env.NEXT_PUBLIC_API_URL || 'http://localhost:8000'
       const response = await axios.post<AnalysisData>(
-        'http://localhost:8000/api/analyze',
+        `${apiUrl}/api/analyze`,
         formData,
         {
           headers: {
