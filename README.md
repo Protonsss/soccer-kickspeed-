@@ -183,9 +183,9 @@ Found a bug? Want to add a feature? Pull requests are welcome. This started as a
 
 ## License
 
-Copyright © 2025 Stephen Chen. All Rights Reserved.
+This project is licensed under the MIT License - see the LICENSE file for details.
 
-This is proprietary software. You cannot copy, modify, or distribute this code without explicit permission. See LICENSE file for details.
+Feel free to use, modify, and distribute this code. Contributions and forks are welcome!
 
 ## Thanks
 

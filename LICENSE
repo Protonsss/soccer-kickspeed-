@@ -1,38 +1,22 @@
-Copyright (c) 2025 Stephen Chen. All Rights Reserved.
+MIT License
 
-PROPRIETARY LICENSE
+Copyright (c) 2025 Stephen Chen
 
-This software and associated documentation files (the "Software") are the proprietary 
-property of Stephen Chen and are protected by copyright law.
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-RESTRICTIONS:
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
-1. NO COPYING: You may NOT copy, reproduce, or distribute the Software or any portion 
-   of it in any form without explicit written permission from the copyright holder.
-
-2. NO MODIFICATION: You may NOT modify, adapt, translate, or create derivative works 
-   based on the Software without explicit written permission.
-
-3. NO COMMERCIAL USE: You may NOT use the Software for any commercial purposes without 
-   explicit written permission and a separate commercial license agreement.
-
-4. NO REDISTRIBUTION: You may NOT sublicense, sell, rent, lease, or otherwise transfer 
-   rights to the Software to any third party.
-
-5. PERSONAL USE ONLY: The Software may only be used for personal, non-commercial purposes 
-   by individuals who have been granted explicit permission by the copyright holder.
-
-DISCLAIMER:
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, 
-INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR 
-PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE 
-FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR 
-OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER 
-DEALINGS IN THE SOFTWARE.
-
-For licensing inquiries or permission requests, contact: [your email]
-
-Unauthorized copying, modification, or distribution of this software is strictly 
-prohibited and will be prosecuted to the fullest extent of the law.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
 
